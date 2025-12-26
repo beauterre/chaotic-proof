@@ -1,3 +1,5 @@
+PLAY AROUND: https://beauterre.github.io/chaotic-proof/
+
 # linear chaos?
 Exploring fractal complexity from JUST iterated linear equation sets and random selection of these sets.
 A surprisingly big fraction (estimated 0.9) of strange attractors in the described, purely linear system seem 
