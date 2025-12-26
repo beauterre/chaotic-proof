@@ -1,4 +1,4 @@
-PLAY AROUND: https://beauterre.github.io/chaotic-proof/
+
 
 # linear chaos?
 Exploring fractal complexity from JUST iterated linear equation sets and random selection of these sets.
@@ -11,14 +11,14 @@ x'=ax+b, where
 In higher complexities (more sets) and higher dimensionalities (larger sets, like x,y,z) and weighted sets (to be described) fractal properties are less evident, but I highly suspect they will be found.
 
 ## Interactive version (code in docs)
-https://hjalmarsnoep.github.io/chaotic-proof/
+PLAY AROUND: https://beauterre.github.io/chaotic-proof/
 
 ## examples of sets of 6 linear equations (3x2) for two dimensional fractals
-![snapshot1](https://hjalmarsnoep.github.io/chaotic-proof/snapshot-images/snap001.png)
-![snapshot14](https://hjalmarsnoep.github.io/chaotic-proof/snapshot-images/snap014.png)
-![snapshot15](https://hjalmarsnoep.github.io/chaotic-proof/snapshot-images/snap015.png)
-![snapshot16](https://hjalmarsnoep.github.io/chaotic-proof/snapshot-images/snap016.png)
-![snapshot17](https://hjalmarsnoep.github.io/chaotic-proof/snapshot-images/snap017.png)
+![snapshot1](https://beauterre.github.io/chaotic-proof/snapshot-images/snap001.png)
+![snapshot14](https://beauterre.github.io/chaotic-proof/snapshot-images/snap014.png)
+![snapshot15](https://beauterre.github.io/chaotic-proof/snapshot-images/snap015.png)
+![snapshot16](https://beauterre.github.io/chaotic-proof/snapshot-images/snap016.png)
+![snapshot17](https://beauterre.github.io/chaotic-proof/snapshot-images/snap017.png)
 
 
 ## why?
